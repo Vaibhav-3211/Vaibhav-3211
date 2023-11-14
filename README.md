@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaibhav-3211
 - 👀 I’m interested in Web Development and Machine Learning
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me -> mail me at vaibhavgautam3211@gmail.com
 
